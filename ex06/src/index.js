@@ -1,7 +1,7 @@
 function main() {
 
     var myName = "Eldan";
-    var myString = "My name is " + myName + ", how are you?";
+    var myString = "My name is " + myName + " and I am well!";
 
     return myString;
 
